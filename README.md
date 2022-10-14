@@ -1,1 +1,1 @@
-# game
+# game:whac-a-mole
